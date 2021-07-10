@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# React blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Temas vistos:
+
+react, redux, semantic ui, redux-thunk,
+sync and async middlewares in redux.
 
 ## Available Scripts
 
