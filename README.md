@@ -2,8 +2,9 @@
 
 Temas vistos:
 
-react, redux, semantic ui, redux-thunk,
-sync and async middlewares in redux.
+react, redux, semantic ui, redux-thunk, sync and async middlewares in redux.
+How to hit an API async call with redux-thunk.
+How to remove duplicates hits to same endpoint and avoid common mistakes.
 
 ## Available Scripts
 
